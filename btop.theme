@@ -1,0 +1,92 @@
+# GitHub Light Theme for btop
+
+# Main background (leave empty for transparent)
+theme[main_bg]="#ffffff"
+
+# Main text color
+theme[main_fg]="#24292e"
+
+# Title color for boxes
+theme[title]="#57606a"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0969da"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#cce5ff"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#24292e"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#8c959f"
+
+# Color of text on top of graphs
+theme[graph_text]="#57606a"
+
+# Background color of the percentage meters
+theme[meter_bg]="#dbe9f9"
+
+# Misc colors for processes box mini graphs
+theme[proc_misc]="#8250df"
+
+# CPU box outline color
+theme[cpu_box]="#cf222e"
+
+# Memory/disks box outline color
+theme[mem_box]="#1a7f37"
+
+# Net up/down box outline color
+theme[net_box]="#0969da"
+
+# Processes box outline color
+theme[proc_box]="#a40e26"
+
+# Box divider lines
+theme[div_line]="#d0d7de"
+
+# Temperature graph colors
+theme[temp_start]="#cf222e"
+theme[temp_mid]="#b08800"
+theme[temp_end]="#a40e26"
+
+# CPU graph colors
+theme[cpu_start]="#b08800"
+theme[cpu_mid]="#cf222e"
+theme[cpu_end]="#a40e26"
+
+# Mem/Disk free meter
+theme[free_start]="#6e7781"
+theme[free_mid]="#6e7781"
+theme[free_end]="#6e7781"
+
+# Mem/Disk cached meter
+theme[cached_start]="#8250df"
+theme[cached_mid]="#8250df"
+theme[cached_end]="#8250df"
+
+# Mem/Disk available meter
+theme[available_start]="#1a7f37"
+theme[available_mid]="#1a7f37"
+theme[available_end]="#1a7f37"
+
+# Mem/Disk used meter
+theme[used_start]="#cf222e"
+theme[used_mid]="#cf222e"
+theme[used_end]="#cf222e"
+
+# Download graph colors
+theme[download_start]="#0969da"
+theme[download_mid]="#2188ff"
+theme[download_end]="#2188ff"
+
+# Upload graph colors
+theme[upload_start]="#cf222e"
+theme[upload_mid]="#a40e26"
+theme[upload_end]="#a40e26"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#1a7f37"
+theme[process_mid]="#2188ff"
+theme[process_end]="#2188ff"
+

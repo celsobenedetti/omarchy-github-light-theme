@@ -1,0 +1,4 @@
+@define-color selected-text  #0969da; /* GitHub blue */
+@define-color text           #24292e; /* GitHub text */
+@define-color base           #ffffff; /* Pure white background */
+@define-color border         #d0d7de; /* Light gray border */

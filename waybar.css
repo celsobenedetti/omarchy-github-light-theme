@@ -1,0 +1,4 @@
+@define-color foreground #24292e; /* GitHub text color */
+@define-color background #ffffff; /* White background */
+@define-color border      #d0d7de; /* Light gray border */
+@define-color accent      #0969da; /* GitHub blue */
